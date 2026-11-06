@@ -1,0 +1,28 @@
+Aarcade Governance — Source-Available License
+
+Copyright (c) 2026 AarcadeGh$t. All rights reserved.
+
+This software is published so that members of AavegotchiDAO and the public can inspect and
+verify how governance on aarcadeghst.com is run. It is not open source.
+
+Permitted, free of charge:
+  1. Reading, downloading and reviewing the source code.
+  2. Running the code and its tests, on your own systems, to audit or verify governance
+     results (for example, recounting votes or checking signatures).
+  3. Quoting short excerpts in reviews, audits, forum posts or governance discussions,
+     with attribution.
+
+Not permitted without prior written permission from the copyright holder:
+  a. Running this software, or a modified version of it, to operate a governance or voting
+     service for any organisation, space or DAO.
+  b. Distributing, sublicensing or selling this software or a modified version of it.
+  c. Incorporating this software, in whole or in substantial part, into another product
+     or service.
+
+Contributions such as issues and pull requests are welcome. By submitting one you agree it
+may be used under these terms.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY
+CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
